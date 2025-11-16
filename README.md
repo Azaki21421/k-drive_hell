@@ -18,7 +18,10 @@ The use of automation tools and macros may violate the Terms of Service or End-U
 1. **Install Python:** Ensure you have a recent version of Python 3 installed on your system.
 
 2. **Install** ```pynput```: Open your command line or terminal and run the following command to install the required library:
-   ```pip install pynput```
+   ```pip install pynput``` 
+   Or simply use ```requirements.txt``` to install the required library:
+   ```pip install -r requirements.txt```
+
 
 # How to Run
 
